@@ -39,7 +39,7 @@ export function App() {
     <div className="app-container">
       <header>
         <h1 className="header-title">Find Your Table</h1>
-        <p className="header-subtitle">Search your name to find your seating table</p>
+        <p className="header-subtitle">Search your name to find your table or browse by table number.</p>
       </header>
 
       <div className="filters-container">
