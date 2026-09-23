@@ -91,7 +91,7 @@ export function App() {
               <tr>
                 <th scope="col">Full Name</th>
                 <th scope="col" className="guest-table-cell">
-                  Table
+                  Table Number
                 </th>
               </tr>
             </thead>
